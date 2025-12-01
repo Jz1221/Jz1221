@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi! I’m an IT student currently undergoing my internship as a Software Developer. I enjoy learning how systems work, building useful applications, and improving my skills in web development, databases, and problem-solving.<br>I’m always excited to explore new technologies and contribute to real-world projects.
+Hi! I’m Song Jia Zheng, I am an IT student currently undergoing my internship as a Software Developer. I enjoy learning how systems work, building useful applications, and improving my skills in web development, databases, and problem-solving.<br>I’m always excited to explore new technologies and contribute to real-world projects.
 
 
 ## 🌐 Socials:
