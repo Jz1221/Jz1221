@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a Semester 1 student pursuing a Bachelor of Information Systems (Honours) in Enterprise Information Systems.
+Currently a Semester 2 student pursuing a Bachelor of Information Systems (Honours) in Enterprise Information Systems.
 
 
 ## 🌐 Socials:
